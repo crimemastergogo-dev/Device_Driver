@@ -1,0 +1,1 @@
+cmd_/root/satvik/Device_driver/Custom_Module/Hello_module/hello.ko := ld -r  -EL  -maarch64elf  --build-id=sha1  -T scripts/module.lds -o /root/satvik/Device_driver/Custom_Module/Hello_module/hello.ko /root/satvik/Device_driver/Custom_Module/Hello_module/hello.o /root/satvik/Device_driver/Custom_Module/Hello_module/hello.mod.o;  true

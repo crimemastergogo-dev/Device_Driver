@@ -1,0 +1,1 @@
+cmd_/root/satvik/Device_driver/Custom_Module/Hello_module/Module.symvers := sed 's/ko$$/o/' /root/satvik/Device_driver/Custom_Module/Hello_module/modules.order | scripts/mod/modpost -m -a   -o /root/satvik/Device_driver/Custom_Module/Hello_module/Module.symvers -e -i Module.symvers   -T -

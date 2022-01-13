@@ -1,0 +1,1 @@
+cmd_/root/satvik/Device_driver/Custom_Module/Hello_module/hello.mod := { echo  /root/satvik/Device_driver/Custom_Module/Hello_module/hello.o;  echo; } > /root/satvik/Device_driver/Custom_Module/Hello_module/hello.mod
